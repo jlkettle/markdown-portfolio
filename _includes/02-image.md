@@ -1,1 +1,1 @@
-![Image of KrazyKat] (https://octodex.github.com/sentrytocat)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
